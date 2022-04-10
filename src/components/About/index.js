@@ -30,6 +30,12 @@ const [letterClass, setLetterClass] = useState('text-animate')
          <p>
          If I need to define myself in one sentence that would be a sports ,a gamer, and tech-obsessed!
          </p>
+         <p>
+         I have finished an internship as React developer for more than 6 months.
+         </p>
+         <p>
+         Looking forward to further advance development skills on JavaScript frameworks.
+         </p>
        </div>
     </div>
     <Loader type="pacman" />
